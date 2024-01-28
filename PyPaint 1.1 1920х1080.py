@@ -6,7 +6,7 @@ lastX, lastY = 0,0
 colour = 'black'
 wind.title('рисовалка 1.1')
 
-lbl = tkinter.Label(wind, text = "by w0rldk1ll")
+lbl = tkinter.Label(wind, text = "by Regicide")
 lbl.pack()
 lbl = tkinter.Label(wind, text = "version 1.1")
 lbl.pack()
